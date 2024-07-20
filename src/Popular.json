@@ -1,0 +1,45 @@
+[
+   
+    {   "id":1,
+        "name":"My Experiments with truth",
+        "author":"M.K.Gandhi",
+        "Prize":70,
+        "rating":"⭐5",
+        "img":"Images/b2.jpg"
+    },
+    {   "id":2,
+        "name":"The Subtle art of not giving a fu*k",
+        "author":"Mark Manson",
+        "Prize":55,
+        "rating":"⭐4.5",
+        "img":"Images/m2.webp"
+    },
+    {   "id":3,
+    "name":"Nelson Mandela",
+    "author":"Peter Limb",
+    "Prize":45,
+    "rating":"⭐5",
+    "img":"Images/b1.jpg"
+},
+    {   "id":4,
+        "name":"Atomic Habits",
+        "author":"James Clear",
+        "Prize":65,
+        "rating":"⭐4",
+        "img":"Images/m1.jpg"
+    },
+    {   "id":5,
+        "name":"Harry Potter",
+        "author":"J.K.Rowling",
+        "Prize":75,
+        "rating":"⭐5",
+        "img":"Images/fa7.jpg"
+    },
+      { "id":6,
+        "name":"Lord of Rings",
+        "author":"J.R.Tolkien",
+        "Prize":45,
+        "rating":"⭐4.7",
+        "img":"Images/fa8.jpg"
+    }
+]

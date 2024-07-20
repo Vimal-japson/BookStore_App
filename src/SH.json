@@ -1,0 +1,45 @@
+[
+    {
+        "id":0,
+        "name":"Think and grow rich",
+        "price": 50,
+        "author":"Nepolan Hill",
+        "img":"Images/sh5.jpg"
+        
+       } ,
+       {
+        "id":1,
+        "name":"Rich dad and Poor dad",
+        "price": 60,
+        "author":"Robert Kiosaki",
+        "img":"Images/sh3.jpg"
+       }, 
+       {
+        "id":2,
+        "name":"The Millionare fastlane",
+        "price": 60,
+        "author":"MJ Demarco",
+        "img":"Images/sg.jpg"
+       },
+        {
+            "id":3,
+            "name":"Rich dad and Poor dad",
+            "price": 60,
+            "author":"Robert Kiosaki",
+            "img":"Images/TB3.jpg"
+        }, 
+        {
+            "id":3,
+            "name":"Rich dad and Poor dad",
+            "price": 60,
+            "author":"Robert Kiosaki",
+            "img":"Images/TB5.jpg"
+        },
+        {
+            "id":4,
+            "name":"Rich dad and Poor dad",
+            "price": 60,
+            "author":"Robert Kiosaki",
+            "img":"Images/f5.jpg"
+        }
+]
